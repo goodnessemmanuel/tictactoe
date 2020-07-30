@@ -169,7 +169,7 @@ public class Main {
             }
         }
     }
-    //this method when invoked, calls itself repeatedly until user enters proper input is entered.
+    //this method when invoked, calls itself repeatedly until user enters the proper input.
     private static void requestGameFromUserAndInsertAtGivenCoordinate() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the coordinates: ");
